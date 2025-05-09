@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/yxkal999YT/odh/refs/heads/main/odhontop"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Cxltures/shoedick/refs/heads/main/shoedickmain"))()
 local Players = game:GetService("Players")
 local TweenService = game:GetService("TweenService")
 local ReplicatedFirst = game:GetService("ReplicatedFirst")
